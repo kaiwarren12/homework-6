@@ -1,1 +1,1 @@
-# homework-6
+In this homework I created a weather app that console logs the search history in a preappended way on the left, and displays a 5 day forecast on a card display using bootstrap and css. To gather the information on the 5 day forecast I had to use an ajax call using jquery to call gather it from an openWeather map api. The homework was both fun and difficut and really pushed me spend some time with my tutor to go over how to save the search querys to the console log and displaying it on my html.  
